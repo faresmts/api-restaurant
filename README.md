@@ -1,2 +1,2 @@
 # api-restaurant
-API with PHP with PDO and no frameworks
+API PHP with PDO and no frameworks
